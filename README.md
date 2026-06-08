@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🎮 e gosto de jogar videogame ...
 -->
 
-![]https://tenor.com/pt-BR/view/spongebob-spongebob-squarepants-gif-26050971
+![]https://media1.tenor.com/m/WxdIjlsfAqYAAAAC/spongebob-spongebob-squarepants.gif
 
