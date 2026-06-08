@@ -1,9 +1,6 @@
-## Hi there 👋
+## OI PESSOAL 👋
 
-<!--
-**GABRIEL10-hash/GABRIEL10-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🏈 gosto de jogar bola ...
 - 🎦 gosto de assistir filmes ...
