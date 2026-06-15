@@ -9,4 +9,4 @@
 - 🎮 e gosto de jogar videogame ...
 -->
                                                                          
-  ![]https://media1.tenor.com/m/WxdIjlsfAqYAAAAC/spongebob-spongebob-squarepants.gif:
+  ![] https://media1.tenor.com/m/WxdIjlsfAqYAAAAC/spongebob-spongebob-squarepants.gif
